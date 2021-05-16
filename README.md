@@ -2,5 +2,6 @@
 Litetokens Improvement Proposals
 
 Table of Contents:
-- [TWP-001](https://github.com/tronprotocol/tips/blob/master/TWP-001.md) Tron Wallet Proposal (TWP)
+- [LIP-0001](https://github.com/litetokens/lips/blob/master/LIP-0001.md) Litetokens Wallet Proposal (LWP)
+- [LIP-0002](https://github.com/litetokens/lips/blob/master/LIP-0002.md) Litetokens LRC10 Proposal
 
