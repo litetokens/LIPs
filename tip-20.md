@@ -1,9 +1,9 @@
 ---
-tip: 20
-title: ERC-20 Token Standard
+lip: 0003
+title: LRC-20 Token Standard
 author: Marcus Zhao <zhaohong2292@gmail.com>
 type: Standards Track
-category: TRC
+category: LRC
 status: Final
 created: 2018-12-01
 ---
@@ -11,8 +11,8 @@ created: 2018-12-01
 ## Simple Summary
 
 A standard interface for tokens.
-TVM is compatiable with EVM.
-TRC20  comes for [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md). Thanks the author of ERC20. 
+LVM is compatiable with EVM.
+LRC20  comes for [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md). Thanks the author of ERC20. 
 
 ## Abstract
 
@@ -22,7 +22,7 @@ This standard provides basic functionality to transfer tokens, as well as allow 
 
 ## Motivation
 
-A standard interface allows any tokens on TRON to be re-used by other applications: from wallets to decentralized exchanges.
+A standard interface allows any tokens on LITETOKENS to be re-used by other applications: from wallets to decentralized exchanges.
 
 
 ## Specification
